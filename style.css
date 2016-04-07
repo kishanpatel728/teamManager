@@ -1,0 +1,15 @@
+.hideit {
+	display: none;
+}
+
+.tr {
+	cursor: pointer;
+}
+
+#showTeams {
+	margin-left: 100px;
+}
+
+#logo {
+	margin-top: 10px;
+}
